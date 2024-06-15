@@ -1,16 +1,12 @@
-Bukkit
+B̶u̶k̶k̶i̶t̶ Netherrack
 ======
 
-A Minecraft Server API.
-
-Website: [http://bukkit.org](http://bukkit.org)  
-Bugs/Suggestions: [http://leaky.bukkit.org](http://leaky.bukkit.org)  
-Contributing Guidelines: [CONTRIBUTING.md](https://github.com/Bukkit/Bukkit/blob/master/CONTRIBUTING.md)
+a minecraft server plugin thingy....
 
 Compilation
 -----------
 
-We use maven to handle our dependencies.
+install maven for this!!
 
 * Install [Maven 3](http://maven.apache.org/download.html)
 * Check out this repo and: `mvn clean install`
