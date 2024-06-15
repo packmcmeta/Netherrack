@@ -40,9 +40,9 @@ public enum ChatColor {
      */
     GOLD('6', 0x6),
     /**
-     * Represents gray
+     * Represents gray replaces with gold CHAT...
      */
-    GRAY('7', 0x7),
+    GRAY('6', 0x6),
     /**
      * Represents dark gray
      */
